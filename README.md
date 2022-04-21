@@ -15,6 +15,8 @@ P.D. El tiempo que se emplea en hacer la comida y hacer la compra es bastante. S
 ## Análisis de requisitos iniciales
 
 - La aplicación debe ser _mobile first_. La mayoría de las funcionalidades se deben poder hacer directamente en el móvil (introducir ingredientes, imágenes, elaborar menús, añadir platos al menú semanal, consultar lista de la compra, etc). En pantalla de escritorio sólo será optimo visualizar el menú semanal y ver cómo quedaría impreso en DIN-A4.
+- Se implementará con PHP puro, HTML, CSS
+- Se utilizará el patrón MVC (modelo, vista, controlador)
 
 ## Diseño base de datos (BBDD)
 
