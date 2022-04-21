@@ -10,5 +10,7 @@
 
 El objetivo es facilitar la elaboración de menús, saber qué comer en cada momento y los ingredientes que te faltan.
 
+P.D. El tiempo que se emplea en hacer la comida y hacer la compra es bastante. Saber qué hacer y qué comprar agiliza y optimiza ese tiempo.
+
 
 
