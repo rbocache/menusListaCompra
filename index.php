@@ -1,6 +1,7 @@
 <?php
 
 require_once 'autoload.php';
+require_once 'views/layout/header.php';
 
 if(isset($_GET['controller'])) {
     
@@ -22,6 +23,8 @@ if(class_exists($nombre_controlador)) {
 } else {
     echo 'La URL que buscas no existe';
 }
+
+require_once 'views/layout/footer.php';
 
 
 
