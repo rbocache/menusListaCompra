@@ -1,3 +1,4 @@
+<?php ?>
 </main>
 
     <footer id="footer">
