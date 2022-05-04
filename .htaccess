@@ -1,6 +1,7 @@
 <IfMOdule mod_rewrite.c>
+# Activar rewrite
 RewriteEngine on
- 
+# ErrorDocument 404 ... 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 
